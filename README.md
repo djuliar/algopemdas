@@ -17,3 +17,11 @@
 14. Sorting (Pengurutan Data dalam Array) [**Baca selengkapnya**](14.%20Sorting%20(Pengurutan%20Data%20dalam%20Array).md)
 15. Mini Project Akhir [**Website Pameran Produk Tugas Akhir**](https://workshop-trpl.com/)
 16. UAS
+
+# Materi Pengembangan Website Company Profile (Project Akhir)
+01. Pengembangan Website Company Profile.md [**Baca selengkapnya**]()
+02. Content Management System (CMS).md [**Baca selengkapnya**]()
+03. MySQL dan PhpMyAdmin.md [**Baca selengkapnya**]()
+04. Instalasi Wordpress.md [**Baca selengkapnya**]()
+05. Hosting dan Domain.md [**Baca selengkapnya**]()
+06. Deployment Wordpress ke Hosting.md [**Baca selengkapnya**]()
