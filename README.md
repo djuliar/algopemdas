@@ -19,9 +19,9 @@
 16. UAS
 
 # Materi Pengembangan Website Company Profile (Project Akhir)
-01. Pengembangan Website Company Profile.md [**Baca selengkapnya**]()
-02. Content Management System (CMS).md [**Baca selengkapnya**]()
-03. MySQL dan PhpMyAdmin.md [**Baca selengkapnya**]()
-04. Instalasi Wordpress.md [**Baca selengkapnya**]()
-05. Hosting dan Domain.md [**Baca selengkapnya**]()
-06. Deployment Wordpress ke Hosting.md [**Baca selengkapnya**]()
+01. Pengembangan Website Company Profile.md [**Baca selengkapnya**](Wordpress/01.%20Pengembangan%20Website%20Company%20Profile.md)
+02. Content Management System (CMS).md [**Baca selengkapnya**](Wordpress/02.%20Content%20Management%20System%20(CMS).md)
+03. MySQL dan PhpMyAdmin.md [**Baca selengkapnya**](Wordpress/03.%20MySQL%20dan%20PhpMyAdmin.md)
+04. Instalasi Wordpress.md [**Baca selengkapnya**](Wordpress/04.%20Instalasi%20Wordpress.md)
+05. Hosting dan Domain.md [**Baca selengkapnya**](Wordpress/05.%20Hosting%20dan%20Domain.md)
+06. Deployment Wordpress ke Hosting.md [**Baca selengkapnya**](Wordpress/06.%20Deployment%20Wordpress%20ke%20Hosting.md)
