@@ -4,7 +4,7 @@
 2. Pengenalan HTML Dasar
 3. Pengenalan PHP dan Struktur Dasar Program
 4. Variabel, Tipe data dan Operator
-5. Input dan Output dalam PHP
+5. Input dan Output dalam Pemrograman
 6. Struktur Kontrol Percabangan
 7. Struktur Kontrol Perulangan
 8. UTS
